@@ -59,7 +59,7 @@
     "conventional-changelog": "0.5.3",
     "cookie-parser": "1.4.6",
     "coveralls": "3.1.1",
-    "dgeni": "0.14.4",
+    "dgeni": "0.4.14",
     "express-session": "1.17.3",
     "fs-extra": "~0.24.0",
     "gently": "~0.10.0",
