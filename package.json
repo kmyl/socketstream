@@ -32,7 +32,7 @@
     "cookie": "0.5.0",
     "csurf": "1.11.0",
 
-    "findup-sync": "^0.3.0",
+    "findup-sync": "5.0.0",
     "glob": "8.0.1",
     "micromatch": "4.0.4",
 
